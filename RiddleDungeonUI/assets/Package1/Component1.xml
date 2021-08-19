@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" overflow="hidden" clipSoftness="50,50">
+  <displayList>
+    <component id="n1_s27a" name="n1" src="s27a1" fileName="Button1.xml" xy="293,384">
+      <Button title="安师大"/>
+    </component>
+  </displayList>
+</component>
