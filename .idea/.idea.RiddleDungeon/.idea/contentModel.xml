@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\cx\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\cx\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_RiddleDungeon.-447772566.00" t="ExcludeRecursive" />
-    <e p="E:\MyProject\RiddleDungeon\RiddleDungeon" t="IncludeRecursive">
+    <e p="C:\Users\zzh\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zzh\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_RiddleDungeon.1768367708.00" t="ExcludeRecursive" />
+    <e p="D:\MyProjects\RiddleDungeon" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -346,6 +346,319 @@
               <e p="XMLList.cs" t="Include" />
               <e p="XMLUtils.cs" t="Include" />
               <e p="ZipReader.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UIProject" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Bag" t="Include">
+                <e p="BagButton.xml" t="Include" />
+                <e p="BagGridSub.xml" t="Include" />
+                <e p="BagWin.xml" t="Include" />
+                <e p="CloseButton.xml" t="Include" />
+                <e p="dot.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="WindowFrame.xml" t="Include" />
+              </e>
+              <e p="Basics" t="Include">
+                <e p="CircleProgress.xml" t="Include" />
+                <e p="components" t="Include">
+                  <e p="BagGridSub.xml" t="Include" />
+                  <e p="BagGridSub2.xml" t="Include" />
+                  <e p="Button.xml" t="Include" />
+                  <e p="Button1.xml" t="Include" />
+                  <e p="Button10.xml" t="Include" />
+                  <e p="Button13.xml" t="Include" />
+                  <e p="Button14.xml" t="Include" />
+                  <e p="Button15.xml" t="Include" />
+                  <e p="Button16.xml" t="Include" />
+                  <e p="Button2.xml" t="Include" />
+                  <e p="Button3.xml" t="Include" />
+                  <e p="Button4.xml" t="Include" />
+                  <e p="Button5.xml" t="Include" />
+                  <e p="Button52.xml" t="Include" />
+                  <e p="Button6.xml" t="Include" />
+                  <e p="Button7.xml" t="Include" />
+                  <e p="Button8.xml" t="Include" />
+                  <e p="Button82.xml" t="Include" />
+                  <e p="Button9.xml" t="Include" />
+                  <e p="Checkbox.xml" t="Include" />
+                  <e p="CloseButton.xml" t="Include" />
+                  <e p="ComboBox.xml" t="Include" />
+                  <e p="ComboBoxItem.xml" t="Include" />
+                  <e p="ComboBoxPopup.xml" t="Include" />
+                  <e p="Component1.xml" t="Include" />
+                  <e p="Component10.xml" t="Include" />
+                  <e p="Component11.xml" t="Include" />
+                  <e p="Component12.xml" t="Include" />
+                  <e p="Component13.xml" t="Include" />
+                  <e p="Component14.xml" t="Include" />
+                  <e p="Component2.xml" t="Include" />
+                  <e p="Component3.xml" t="Include" />
+                  <e p="Component4.xml" t="Include" />
+                  <e p="Component5.xml" t="Include" />
+                  <e p="Component6.xml" t="Include" />
+                  <e p="Component7.xml" t="Include" />
+                  <e p="Component8.xml" t="Include" />
+                  <e p="Component9.xml" t="Include" />
+                  <e p="Dropdown.xml" t="Include" />
+                  <e p="Dropdown2.xml" t="Include" />
+                  <e p="GridItem.xml" t="Include" />
+                  <e p="GridItem2.xml" t="Include" />
+                  <e p="OnOffButton.xml" t="Include" />
+                  <e p="ProgressBar.xml" t="Include" />
+                  <e p="ProgressBar1.xml" t="Include" />
+                  <e p="ProgressBar2.xml" t="Include" />
+                  <e p="ProgressBar3.xml" t="Include" />
+                  <e p="ProgressBar4.xml" t="Include" />
+                  <e p="ProgressBar5.xml" t="Include" />
+                  <e p="ProgressBar6.xml" t="Include" />
+                  <e p="RadioButton.xml" t="Include" />
+                  <e p="Slider1.xml" t="Include" />
+                  <e p="Slider2.xml" t="Include" />
+                  <e p="Slider2_grip.xml" t="Include" />
+                  <e p="Slider_HZ.xml" t="Include" />
+                  <e p="Slider_VT.xml" t="Include" />
+                  <e p="SliderArrow_HZ.xml" t="Include" />
+                  <e p="SliderArrow_VT.xml" t="Include" />
+                  <e p="WindowCloseButton.xml" t="Include" />
+                  <e p="WindowFrame.xml" t="Include" />
+                  <e p="WindowFrameB.xml" t="Include" />
+                </e>
+                <e p="Demo_Button.xml" t="Include" />
+                <e p="Demo_Clip&amp;Scroll.xml" t="Include" />
+                <e p="Demo_ComboBox.xml" t="Include" />
+                <e p="Demo_Component.xml" t="Include" />
+                <e p="Demo_Controller.xml" t="Include" />
+                <e p="Demo_Depth.xml" t="Include" />
+                <e p="Demo_Drag&amp;Drop.xml" t="Include" />
+                <e p="Demo_Graph.xml" t="Include" />
+                <e p="Demo_Grid.xml" t="Include" />
+                <e p="Demo_Image.xml" t="Include" />
+                <e p="Demo_Label.xml" t="Include" />
+                <e p="Demo_List.xml" t="Include" />
+                <e p="Demo_Loader.xml" t="Include" />
+                <e p="Demo_MovieClip.xml" t="Include" />
+                <e p="Demo_Popup.xml" t="Include" />
+                <e p="Demo_ProgressBar.xml" t="Include" />
+                <e p="Demo_Relation.xml" t="Include" />
+                <e p="Demo_Slider.xml" t="Include" />
+                <e p="Demo_Text.xml" t="Include" />
+                <e p="Demo_Window.xml" t="Include" />
+                <e p="font" t="Include">
+                  <e p="BMFontTest.fnt" t="Include" />
+                  <e p="HitNumber.fnt" t="Include" />
+                </e>
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="popupmenu" t="Include">
+                  <e p="PopupMenu.xml" t="Include" />
+                  <e p="PopupMenuItem.xml" t="Include" />
+                </e>
+                <e p="scrollbars" t="Include">
+                  <e p="GripButton_HZ.xml" t="Include" />
+                  <e p="GripButton_VT.xml" t="Include" />
+                  <e p="ScrollBar_HZ.xml" t="Include" />
+                  <e p="ScrollBar_VT.xml" t="Include" />
+                  <e p="ScrollDownButton.xml" t="Include" />
+                  <e p="ScrollUpButton.xml" t="Include" />
+                </e>
+                <e p="WindowA.xml" t="Include" />
+                <e p="WindowB.xml" t="Include" />
+              </e>
+              <e p="BundleUsage" t="Include">
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Cooldown" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="Button2.xml" t="Include" />
+                <e p="cdtime.fnt" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Curve" t="Include">
+                <e p="item.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="CutScene" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="CutScene.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="ProgressBar5.xml" t="Include" />
+              </e>
+              <e p="EmitNumbers" t="Include">
+                <e p="Main.xml" t="Include" />
+                <e p="number1.fnt" t="Include" />
+                <e p="number2.fnt" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Emoji" t="Include">
+                <e p="Button.xml" t="Include" />
+                <e p="Button2.xml" t="Include" />
+                <e p="chatLeft.xml" t="Include" />
+                <e p="chatRight.xml" t="Include" />
+                <e p="EmojiSelectUI.xml" t="Include" />
+                <e p="EmojiSelectUI_ios.xml" t="Include" />
+                <e p="faceSub.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="ScrollBar_VT.xml" t="Include" />
+              </e>
+              <e p="Extension" t="Include">
+                <e p="mailItem.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Filter" t="Include">
+                <e p="Button5.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="Slider2.xml" t="Include" />
+                <e p="Slider2_grip.xml" t="Include" />
+              </e>
+              <e p="Gesture" t="Include">
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Guide" t="Include">
+                <e p="BagButton.xml" t="Include" />
+                <e p="Button1.xml" t="Include" />
+                <e p="GuideLayer.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="HeadBar" t="Include">
+                <e p="bloodbar.xml" t="Include" />
+                <e p="HeadBar.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="HitTest" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="Button2.xml" t="Include" />
+                <e p="Button3.xml" t="Include" />
+                <e p="Button4.xml" t="Include" />
+                <e p="Component1.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Joystick" t="Include">
+                <e p="circle.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="LoopList" t="Include">
+                <e p="item.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="ModalWaiting" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="CloseButton.xml" t="Include" />
+                <e p="GlobalModalWaiting.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="TestWin.xml" t="Include" />
+                <e p="WindowFrame.xml" t="Include" />
+                <e p="WindowModalWaiting.xml" t="Include" />
+              </e>
+              <e p="Model" t="Include">
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Particles" t="Include">
+                <e p="CoolComponent.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Perspective" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="mailItem.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="Panel.xml" t="Include" />
+                <e p="Panel2.xml" t="Include" />
+              </e>
+              <e p="PullToRefresh" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="Button2.xml" t="Include" />
+                <e p="Footer.xml" t="Include" />
+                <e p="Header.xml" t="Include" />
+                <e p="item.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="RenderTexture" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="ButtonLeft.xml" t="Include" />
+                <e p="ButtonRight.xml" t="Include" />
+                <e p="CloseButton.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="TestWin.xml" t="Include" />
+                <e p="WindowFrame.xml" t="Include" />
+              </e>
+              <e p="ScrollPane" t="Include">
+                <e p="Box.xml" t="Include" />
+                <e p="Button1.xml" t="Include" />
+                <e p="Button2.xml" t="Include" />
+                <e p="item.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="Transition" t="Include">
+                <e p="BOSS.xml" t="Include" />
+                <e p="BOSS_SKILL.xml" t="Include" />
+                <e p="Button1.xml" t="Include" />
+                <e p="GoodHit.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="number1.fnt" t="Include" />
+                <e p="number2.fnt" t="Include" />
+                <e p="number3.fnt" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="PathDemo.xml" t="Include" />
+                <e p="PowerUp.xml" t="Include" />
+                <e p="TRAP.xml" t="Include" />
+              </e>
+              <e p="TreeView" t="Include">
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="TreeExpandButton.xml" t="Include" />
+                <e p="TreeItem.xml" t="Include" />
+              </e>
+              <e p="TurnCard" t="Include">
+                <e p="CardComponent.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="TurnPage" t="Include">
+                <e p="BackCover.xml" t="Include" />
+                <e p="Book.xml" t="Include" />
+                <e p="Button1.xml" t="Include" />
+                <e p="Button3.xml" t="Include" />
+                <e p="FrontCover.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+                <e p="Page.xml" t="Include" />
+                <e p="Pages.xml" t="Include" />
+                <e p="slide" t="Include">
+                  <e p="Slider2.xml" t="Include" />
+                  <e p="Slider2_grip.xml" t="Include" />
+                </e>
+              </e>
+              <e p="TypingEffect" t="Include">
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
+              <e p="VirtualList" t="Include">
+                <e p="Button1.xml" t="Include" />
+                <e p="mailItem.xml" t="Include" />
+                <e p="Main.xml" t="Include" />
+                <e p="package.xml" t="Include" />
+              </e>
             </e>
           </e>
         </e>
