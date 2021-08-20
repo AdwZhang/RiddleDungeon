@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720">
+  <controller name="c1" pages="0,,1," selected="0"/>
   <displayList>
     <loader id="n7_gqwr" name="n7" xy="640,360" pivot="0.5,0.5" anchor="true" size="1414,641" scale="1.2,1.2" url="ui://94sw7feegqwr6" autoSize="true"/>
     <component id="n4_gqwr" name="n4" src="gqwr4" fileName="Button1.xml" xy="200,300">
@@ -10,6 +11,10 @@
     </component>
     <component id="n6_gqwr" name="n6" src="gqwr4" fileName="Button1.xml" xy="300,460">
       <Button title="设置"/>
+    </component>
+    <component id="n8_slnw" name="n8" src="slnw8" fileName="Component1.xml" xy="-1600,0">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearXY controller="c1" pages="0,1" values="-1600,0|0,0" tween="true"/>
     </component>
   </displayList>
 </component>

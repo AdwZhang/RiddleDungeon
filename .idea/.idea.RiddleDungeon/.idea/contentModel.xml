@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\zzh\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\zzh\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_RiddleDungeon.1768367708.00" t="ExcludeRecursive" />
-    <e p="D:\MyProjects\RiddleDungeon" t="IncludeRecursive">
+    <e p="C:\Users\cx\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cx\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_RiddleDungeon.-447772566.00" t="ExcludeRecursive" />
+    <e p="E:\MyProject\RiddleDungeon\RiddleDungeon" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -660,6 +660,11 @@
                 <e p="package.xml" t="Include" />
               </e>
             </e>
+          </e>
+        </e>
+        <e p="MyGame" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="StartScene.cs" t="Include" />
           </e>
         </e>
         <e p="Top-Down Dungeons 2" t="Include">
