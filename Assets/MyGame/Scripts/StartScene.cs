@@ -22,13 +22,22 @@ public class StartScene : MonoBehaviour
     {
         _mainView = this.GetComponent<UIPanel>().ui;
         _viewController = _mainView.GetController("c1");
-        
-        
+        GButton startGameBtn = _mainView.GetChild("start_button").asButton;
+        startGameBtn.onClick.Add(startNewGame);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+    }
+
+    private void startNewGame()
+    {
+        SceneLoadManager.LoadScene("SampleScene", delegate(float progress)
+        {
+            Debug.LogFormat("加载进度：{0}", progress);
+        }, delegate(){
+            Debug.Log("加载结束");
+        } );
     }
 }

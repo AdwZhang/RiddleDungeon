@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 414967250}
   - component: {fileID: 414967249}
   - component: {fileID: 414967251}
+  - component: {fileID: 414967252}
   m_Layer: 5
   m_Name: UIPanel
   m_TagString: Untagged
@@ -175,7 +176,7 @@ Transform:
   m_GameObject: {fileID: 414967248}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.013888889, y: 0.013888889, z: 0.013888889}
+  m_LocalScale: {x: 0.013888888, y: 0.013888888, z: 0.013888888}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -200,6 +201,18 @@ MonoBehaviour:
   defaultSpriteDPI: 96
   constantScaleFactor: 1
   ignoreOrientation: 0
+--- !u!114 &414967252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 414967248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a309494e9917d45ad7475f1ac19138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &736265812
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,7 +295,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 736265812}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.111111, y: -5, z: 0}
+  m_LocalPosition: {x: 11.143911, y: -5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
