@@ -8,6 +8,7 @@
     <image id="gqwr6" name="start_bg.PNG" path="/images/" scale="tile" scale9grid="353,160,706,320"/>
     <component id="slnw7" name="LoadSave.xml" path="/" exported="true"/>
     <component id="slnw8" name="Component1.xml" path="/"/>
+    <component id="latt9" name="ProgressBar1.xml" path="/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

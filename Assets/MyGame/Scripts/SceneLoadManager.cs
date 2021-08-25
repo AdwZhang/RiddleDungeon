@@ -30,7 +30,6 @@ public class SceneLoadManager : MonoBehaviour
     }
 
     // <summary>
-    // 加载场景
     // <param name = "name"> 场景名 </param>
     // <param name = "progress"> 回调加载进度 </param>
     // <param name = "finish"> 回调加载场景结束 </param>
