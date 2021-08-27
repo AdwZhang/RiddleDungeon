@@ -7,8 +7,6 @@
     <component id="gqwr4" name="Button1.xml" path="/"/>
     <image id="gqwr6" name="start_bg.PNG" path="/images/" scale="tile" scale9grid="353,160,706,320"/>
     <component id="slnw7" name="LoadSave.xml" path="/" exported="true"/>
-    <component id="slnw8" name="LoadScene.xml" path="/" exported="true"/>
-    <component id="latt9" name="ProgressBar1.xml" path="/"/>
     <image id="p8zjb" name="title.png" path="/images/"/>
   </resources>
   <publish name=""/>

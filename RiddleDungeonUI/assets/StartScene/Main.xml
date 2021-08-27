@@ -16,7 +16,7 @@
       <gearDisplay controller="c1" pages="0"/>
       <Button title="设置"/>
     </component>
-    <component id="n8_slnw" name="container" src="slnw8" fileName="LoadScene.xml" xy="-1600,0">
+    <component id="n8_slnw" name="container" src="slnw8" fileName="LoadScene.xml" xy="-1600,0" pkg="f6o39uow">
       <gearDisplay controller="c1" pages="0"/>
       <gearXY controller="c1" pages="0,1" values="-1600,0|0,0" default="-1600,0" tween="true"/>
     </component>
