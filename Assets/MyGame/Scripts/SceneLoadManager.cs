@@ -24,7 +24,6 @@ public class SceneLoadManager : MonoBehaviour
             if (m_Progress != null)
             {
                 m_Progress(m_AsyncOperation.progress);
-                m_Progress = null;
             }
         }
     }
@@ -36,6 +35,7 @@ public class SceneLoadManager : MonoBehaviour
     static public void LoadScene(string name, UnityAction<float> progress,
         UnityAction finish)
     {
+        // 先加载进入
         new GameObject("#SceneLoadManager").AddComponent<SceneLoadManager>();
         m_AsyncOperation = SceneManager.LoadSceneAsync(name, LoadSceneMode.Single);
         m_Progress = progress;
@@ -45,6 +45,9 @@ public class SceneLoadManager : MonoBehaviour
         {
             finish();
             m_AsyncOperation = null;
+            m_Progress = null;
         };
     }
+    
+    
 }
