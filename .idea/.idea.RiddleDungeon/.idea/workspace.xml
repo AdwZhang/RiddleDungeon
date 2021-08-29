@@ -22,6 +22,7 @@
       <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs" />
       <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/LoadingScene.cs" />
       <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/SceneLoadManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Joystick/JoystickModule.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1wwVXwEPb39Mrcjs439FMCkgHVn" />
@@ -47,10 +48,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20644">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="20644" />
+      <option name="pid" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -89,6 +90,7 @@
       <workItem from="1630037698024" duration="9049000" />
       <workItem from="1630079489418" duration="3403000" />
       <workItem from="1630185959458" duration="8745000" />
+      <workItem from="1630231676136" duration="6460000" />
     </task>
     <servers />
   </component>

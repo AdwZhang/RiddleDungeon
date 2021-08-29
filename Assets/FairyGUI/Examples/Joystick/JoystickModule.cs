@@ -1,7 +1,8 @@
 ﻿using FairyGUI;
 using UnityEngine;
 
-public class JoystickModule : EventDispatcher
+public class 
+    JoystickModule : EventDispatcher
 {
     float _InitX;
     float _InitY;

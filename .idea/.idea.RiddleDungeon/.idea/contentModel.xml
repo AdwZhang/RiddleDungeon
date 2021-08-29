@@ -660,6 +660,30 @@
             </e>
           </e>
         </e>
+        <e p="FightingUnityChan_FreeAsset" t="Include">
+          <e p="FightingUnityChan_FreeAsset" t="Include">
+            <e p="Models" t="Include">
+              <e p="UnityChanShader" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eye.shader" t="Include" />
+                  <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                  <e p="Unitychan_chara_hada.shader" t="Include" />
+                  <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_hair.shader" t="Include" />
+                  <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CameraController.cs" t="Include" />
+              <e p="IdleChanger.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="MyGame" t="Include">
           <e p="Scripts" t="Include">
             <e p="LoadingScene.cs" t="Include" />
