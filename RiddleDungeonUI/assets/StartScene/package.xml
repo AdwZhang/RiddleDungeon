@@ -5,7 +5,7 @@
     <image id="gqwr2" name="btn_unselect.png" path="/images/" scale9grid="0,0,-3,-3"/>
     <image id="gqwr3" name="btn_select.png" path="/images/" scale9grid="0,0,-3,-3"/>
     <component id="gqwr4" name="Button1.xml" path="/"/>
-    <image id="gqwr6" name="start_bg.PNG" path="/images/" scale="tile" scale9grid="353,160,706,320"/>
+    <image id="gqwr6" name="start_bg.PNG" path="/images/" exported="true" scale="tile" scale9grid="353,160,706,320"/>
     <component id="slnw7" name="LoadSave.xml" path="/" exported="true"/>
     <image id="p8zjb" name="title.png" path="/images/"/>
   </resources>

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720">
   <displayList>
-    <component id="n0_latt" name="n0" src="latt9" fileName="ProgressBar1.xml" xy="640,633" pivot="0.5,0.5" anchor="true" size="960,17">
+    <loader id="n7_qodq" name="n7" xy="640,360" pivot="0.5,0.5" anchor="true" size="1414,641" scale="1.2,1.2" url="ui://f6o39uowqodqa" autoSize="true"/>
+    <component id="n0_latt" name="progress" src="latt9" fileName="ProgressBar1.xml" xy="640,633" pivot="0.5,0.5" anchor="true" size="960,17">
       <relation target="" sidePair="center-center"/>
-      <ProgressBar value="20" max="100"/>
+      <ProgressBar value="30" max="100"/>
     </component>
-    <text id="n1_u9y9" name="n1" xy="640,680" pivot="0.5,0.5" anchor="true" size="124,29" visible="false" fontSize="20" color="#663399" text="点击屏幕继续">
+    <graph id="n4_qodq" name="touch_panel" xy="640,360" pivot="0.5,0.5" anchor="true" size="1600,960" visible="false" alpha="0" type="rect"/>
+    <text id="n1_u9y9" name="text" xy="640,680" pivot="0.5,0.5" anchor="true" size="124,29" visible="false" fontSize="20" color="#663399" text="点击屏幕继续">
       <relation target="" sidePair="center-center"/>
     </text>
-    <loader id="n2_u9y9" name="n2" xy="640,360" pivot="0.5,0.5" anchor="true" size="1600,960"/>
   </displayList>
 </component>

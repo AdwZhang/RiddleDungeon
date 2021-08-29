@@ -7,6 +7,9 @@
     <graph id="n1_latt" name="bar" xy="0,3" size="960,4" type="rect" lineSize="0" fillColor="#ff3399ff">
       <relation target="n0_latt" sidePair="width-width,height-height"/>
     </graph>
+    <movieclip id="n3_qodq" name="n3" src="qodqc" fileName="run_anim.jta" xy="882,-89">
+      <relation target="n1_latt" sidePair="right-right"/>
+    </movieclip>
   </displayList>
   <ProgressBar/>
 </component>

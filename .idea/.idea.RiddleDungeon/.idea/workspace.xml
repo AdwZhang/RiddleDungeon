@@ -11,16 +11,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EC0ED156-5BD0-4BB6-9DDD-0785746B977D/78/eeaa5df8/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/Scripts/SceneLoadManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/Scripts/LoadingScene.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs" />
       <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/SceneManager.cs" />
       <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/StartScene.cs" />
-      <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/SceneLoadManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs" />
       <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/LoadingScene.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/SceneLoadManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1wwVXwEPb39Mrcjs439FMCkgHVn" />
@@ -46,10 +47,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20644">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="20644" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -87,6 +88,7 @@
       <workItem from="1629908139764" duration="1338000" />
       <workItem from="1630037698024" duration="9049000" />
       <workItem from="1630079489418" duration="3403000" />
+      <workItem from="1630185959458" duration="8745000" />
     </task>
     <servers />
   </component>
@@ -97,17 +99,5 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs</url>
-          <line>58</line>
-          <properties documentPath="C:\MyProjects\RiddleDungeon\Assets\FairyGUI\Examples\Basics\BasicsMain.cs" initialLine="58" containingFunctionPresentation="method 'runDemo'" />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

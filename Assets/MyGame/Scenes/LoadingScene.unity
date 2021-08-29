@@ -215,6 +215,8 @@ GameObject:
   - component: {fileID: 1366632217}
   - component: {fileID: 1366632216}
   - component: {fileID: 1366632215}
+  - component: {fileID: 1366632218}
+  - component: {fileID: 1366632219}
   m_Layer: 5
   m_Name: UIPanel
   m_TagString: Untagged
@@ -248,7 +250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   packageName: LoadingScene
   componentName: Main
-  fitScreen: 2
+  fitScreen: 3
   sortingOrder: 0
   packagePath: Assets/Resource/FairyGUI/LoadingScene
   renderMode: 0
@@ -270,11 +272,43 @@ Transform:
   m_GameObject: {fileID: 1366632214}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.0069444445, y: 0.0069444445, z: 0.0069444445}
+  m_LocalScale: {x: 0.013888889, y: 0.013888889, z: 0.013888889}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1366632218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366632214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a723f7fd716aac049aa24e9186f18685, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMode: 1
+  screenMatchMode: 2
+  designResolutionX: 1280
+  designResolutionY: 720
+  fallbackScreenDPI: 96
+  defaultSpriteDPI: 96
+  constantScaleFactor: 1
+  ignoreOrientation: 0
+--- !u!114 &1366632219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366632214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e313b12e002b244449d1586d1c60df75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1575791113
 GameObject:
   m_ObjectHideFlags: 0
